@@ -1,8 +1,11 @@
-# DataLake_JDBC_Pub
-Data Lake connection using the JDBC driver
+## NSA Professional Services
+http://www.nsacom.com | support@nsacom.com | Rob Thayer - rob.thayer@nsacom.com
 
-NSA Professional Services
-Rob Thayer - rob.thayer@nsacom.com
+
+# DataLake_JDBC_Pub
+
+## Data Lake connection using the JDBC driver
+
 
 ### Requirements:
 1. Python 3.x (may work with Python 2.x but not tested)
