@@ -5,10 +5,10 @@ query = input("Type your query:")
 query_file = input("Enter a file name to save your query to:")
 
 conn = jaydebeapi.connect("com.infor.idl.jdbc.Driver",
-                          "jdbc:infordatalake://NSACOM_DEM:.",
+                          "jdbc:infordatalake://<your_tenant>:.",
                           {'user':'','pass':''},
-                          "C:/Users/compu/OneDrive/Code/VisualStudio/python/DataLake_Conn/infor-compass-jdbc-2020-05.jar",
-                          "C:/Users/compu/OneDrive/Code/VisualStudio/python/DataLake_Conn/",
+                          "<driver_path>/infor-compass-jdbc-2020-05.jar",
+                          "<driver_path>/",
                           )
 
 
