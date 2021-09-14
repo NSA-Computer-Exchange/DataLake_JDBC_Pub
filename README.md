@@ -39,7 +39,7 @@ http://www.nsacom.com | support@nsacom.com | Rob Thayer - rob.thayer@nsacom.com
                           )
 6. Leave `user:` & `pass:` blank       
 
-### Running the code
+### Running the code:
 1. Make sure to import the `jaydebeapi` library into your python environment or virtual environment
 2. python3 DataLake_Conn.py 
 3. You will be prompted to type your query: IE: `SELECT TOP 100 cono, name, custno FROM arsc` 
